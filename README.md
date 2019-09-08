@@ -1,0 +1,1 @@
+# https-github.com-Team-UB-android_device_samsung_universal9820-common
